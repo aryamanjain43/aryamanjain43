@@ -18,6 +18,7 @@ I'm a Master of Engineering Management student at **Duke University** with a com
 | Project | What it shows |
 |---|---|
 | [Feature Prioritizer](https://github.com/aryamanjain43/feature-prioritizer) | A RICE and MoSCoW prioritization tool that turns a feature backlog into a ranked roadmap |
+| [Market Sizer](https://github.com/aryamanjain43/market-sizer) | A TAM, SAM and SOM sizing tool with a bottom-up cross-check, five-year outlook and sensitivity analysis |
 | More on the way | Product metrics analysis and competitive strategy work |
 
 ### Tools
